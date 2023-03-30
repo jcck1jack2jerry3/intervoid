@@ -1,2 +1,2 @@
-# intervoid
-test 3.5 for iready mnu
+# Intervoid is the best i-Ready hack you can possibly find on the internet.
+InterVoid is an i-Ready hack that is the best option to use due to its 10 great features. The flashy user interface makes the UI look very facinating. Intervoid also has a great Discord server where users can find updates, ask questions, and get help from moderators. The hack has been designed to be easy to use, even for those who are new to using i-Ready hacks. Furthermore, InterVoid is very safe to use and doesnt include any malware. InterVoid has a license but forking the repo is totally fine if you dont choose to change the code, leak, etc. Finally, InterVoid is also a InterVoid alternative made by J6X. All these features make InterVoid the best i-Ready hack option to use.   blob:chrome-untrusted://media-app/c1c9991a-5c45-4a7f-8442-a309a53aeb6b
